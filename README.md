@@ -1,8 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:2d1b4e,100:6C63FF&height=250&section=header&text=Mariam%20Mouh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20Engineering%20Student&descSize=16&descAlignY=55)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Specializing+in+Data+Science%2C+Big+Data+%26+AI;Exploring+Agentic+AI%2C+RAG%2C+and+LLM+Applications;Turning+research+ideas+into+real-world+AI+solutions)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c5c,50:7b2cbf,100:e0aaff&height=200&section=header&text=Mariam%20Mouh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20Data%20Science%20Engineering%20Student&descSize=16&descAlignY=55)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=700&lines=Specializing+in+Data+Science%2C+Big+Data+%26+AI;Exploring+Agentic+AI%2C+RAG%2C+and+LLM+Applications;Turning+research+ideas+into+real-world+AI+solutions)](https://git.io/typing-svg)
 
 <br>
 
@@ -212,6 +211,6 @@ Journal application with a customizable interface, mood tracking, and a gallery 
 
 📧 [mariammouh777@gmail.com](mailto:mariammouh777@gmail.com) · 📱 +212 7 03 77 64 97 · 🔗 [LinkedIn](https://www.linkedin.com/in/mariam-mouh-6b60b6350/)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c5c,50:7b2cbf,100:e0aaff&height=100&section=footer)
 
 </div>

@@ -53,11 +53,22 @@ I'm exploring **Agentic AI Systems**, **Retrieval-Augmented Generation (RAG)**, 
 ![XGBoost](https://img.shields.io/badge/XGBoost-0E76A8?style=flat-square&logo=xgboost&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**GenAI & NLP**
+**GenAI, Agents & NLP**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20Agent%20Dev%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Web & Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 **Mobile & Infrastructure**
 
@@ -65,13 +76,32 @@ I'm exploring **Agentic AI Systems**, **Retrieval-Augmented Generation (RAG)**, 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Data & Tools**
+**Databases & Data Warehousing**
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![OLAP](https://img.shields.io/badge/OLAP-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-0078D4?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**BI & Cloud**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Hardware Prototyping**
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 </div>
 
@@ -82,9 +112,17 @@ I'm exploring **Agentic AI Systems**, **Retrieval-Augmented Generation (RAG)**, 
 | Role | Company | Period |
 |:-----|:--------|:------:|
 | **Stagiaire Développeuse** | Valla (RecruitMate) — Agadir | Juillet – Août 2025 |
+| **Stagiaire Développeuse (Stage de fin d'étude)** | Dot Concept — Agadir | Avril – Juin 2024 |
+| **Stagiaire (Stage d'initialisation)** | Smart Soluce — Agadir | Juillet – Août 2023 |
 
-> Built a web app for automatic PDF resume analysis with a candidate-matching system and an interactive interface exporting results to PDF/CSV.
+> **Valla (RecruitMate):** Built a web app for automatic PDF resume analysis with a candidate-matching system and an interactive interface exporting results to PDF/CSV.
 > **Stack:** Python, Streamlit, spaCy, pdfplumber, pandas, ReportLab, Regex
+
+> **Dot Concept:** Developed an app for self-employed entrepreneurs to simplify management of clients, suppliers, stock, quotes, invoices, and purchase orders, with a simple, customizable interface tailored to specific needs.
+> **Stack:** Laravel, JavaScript, CSS, HTML, MySQL
+
+> **Smart Soluce:** Created a quiz-and-certification platform for learning programming, with a user-friendly interface and progress tracking.
+> **Stack:** PHP, Bootstrap, JavaScript, CSS, HTML, MySQL
 
 <br>
 
@@ -99,6 +137,10 @@ I'm exploring **Agentic AI Systems**, **Retrieval-Augmented Generation (RAG)**, 
 <br>
 
 ## Featured Projects
+
+**🚔 LAPD Crime Case Resolution Prediction** · *Machine Learning*
+A machine learning project predicting the likelihood of a crime case being solved, using Los Angeles Police Department data from 2020–2025. The model classifies cases into three categories: **Unsolved**, **Solved by Arrest**, and **Solved Exceptionally**.
+`Python` `Pandas` `Scikit-learn` `XGBoost` `Data Analysis`
 
 **🏃 FitLife — Fitness & Well-Being Tracker** · *Feb – Apr 2026*
 Android app for activity tracking (MVC + MySQL persistence) with dynamic stats and scheduled notifications, plus a 3D AR avatar (ARCore/Unity) that evolves with weekly goal progress.
@@ -115,6 +157,18 @@ Real-time ASL alphabet recognition via camera, JavaFX interface, **93% accuracy*
 **♻️ Enactus — Smart Waste Sorting System** *(International Competition)* · *Feb – Apr 2026*
 Physical smart-bin prototype combining computer vision and IoT for automatic waste sorting.
 `Python` `OpenCV` `Raspberry Pi / Arduino` `TensorFlow`
+
+**🔐 Linux User & Permission Management App** *(OS Module Project)* · *Nov – Déc 2024*
+Automated user and permission management to simplify system administration, with simpler access to essential functions and a more intuitive interaction.
+`Python` `Linux` `Bash`
+
+**🎓 Academic & Career Orientation Website** *(Final Year Project)* · *Nov 2024 – Avr 2024*
+Web platform automating application, admission, and competitive-exam registration processes, with academic/professional consultation and complementary services like CV creation, exam archiving, and interview Q&A.
+`PHP` `Bootstrap` `JavaScript` `CSS` `HTML` `MySQL`
+
+**📓 Personal Journal App** *(Java & OOP Module Project)* · *Nov – Déc 2023*
+Journal application with a customizable interface, mood tracking, and a gallery section for saving media.
+`Java` `JavaFX` `MySQL`
 
 > 🗂️ All my projects are available on my [GitHub profile](https://github.com/mariammouh).
 
